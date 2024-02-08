@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Work\L20231127_Mornning\main.cpp(58,9): warning C4101: 'knife': unreferenced local variable
+  L20231127_Mornning.vcxproj -> C:\Work\L20231127_Mornning\x64\Debug\L20231127_Mornning.exe

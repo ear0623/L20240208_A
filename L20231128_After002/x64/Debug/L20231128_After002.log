@@ -1,0 +1,21 @@
+﻿  Image.cpp
+C:\Work\L20231128_After002\Image.h(13,47): error C3861: 'MyWindow': identifier not found
+  (compiling source file 'Image.cpp')
+  
+C:\Work\L20231128_After002\Image.h(13,47): error C2065: 'MyWindow': undeclared identifier
+  (compiling source file 'Image.cpp')
+  
+  main.cpp
+C:\Work\L20231128_After002\Image.h(13,47): error C3861: 'MyWindow': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Work\L20231128_After002\Image.h(13,47): error C2065: 'MyWindow': undeclared identifier
+  (compiling source file 'main.cpp')
+  
+  World.cpp
+C:\Work\L20231128_After002\World.h(9,21): error C2864: 'UWorld::MyWindow': a static data member with an in-class initializer must have non-volatile const integral type or be specified as 'inline'
+  (compiling source file 'World.cpp')
+  C:\Work\L20231128_After002\World.h(9,97):
+  type is 'SDL_Window *'
+  
+  Generating Code...
